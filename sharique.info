@@ -1,0 +1,36 @@
+name = sharique
+description = Install with commonly used features pre-configured for development.
+version = 7.x-1.x-dev
+core = 7.x
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = admin_menu
+dependencies[] = features
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = views_ui
+dependencies[] = devel
+dependencies[] = demo
+dependencies[] = advanced_help
+dependencies[] = jquery_update
+dependencies[] = strongarm
+dependencies[] = libraries
+dependencies[] = devel
+dependencies[] = devel_generate
+
+
