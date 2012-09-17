@@ -16,7 +16,6 @@ dependencies[] = options
 dependencies[] = path
 dependencies[] = taxonomy
 dependencies[] = dblog
-dependencies[] = search
 dependencies[] = shortcut
 dependencies[] = admin_menu
 dependencies[] = features
@@ -30,7 +29,9 @@ dependencies[] = advanced_help
 dependencies[] = jquery_update
 dependencies[] = strongarm
 dependencies[] = libraries
-dependencies[] = devel
 dependencies[] = devel_generate
+dependencies[] = ctools_custom_content
+dependencies[] = panels_node
+dependencies[] = panels_mini
 
 
