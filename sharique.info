@@ -1,4 +1,4 @@
-name = sharique
+name = sharique_01
 description = Install with commonly used features pre-configured for development.
 version = 7.x-1.x-dev
 core = 7.x
